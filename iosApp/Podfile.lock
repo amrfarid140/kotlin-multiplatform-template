@@ -1,0 +1,16 @@
+PODS:
+  - commonCode (0.0.1)
+
+DEPENDENCIES:
+  - commonCode (from `../commonCode`)
+
+EXTERNAL SOURCES:
+  commonCode:
+    :path: "../commonCode"
+
+SPEC CHECKSUMS:
+  commonCode: 5cc2c320e78f8894e44712c46ede61fccae84df8
+
+PODFILE CHECKSUM: 16be2f89096a2efa74912c705dab3ff9e6e6590e
+
+COCOAPODS: 1.9.1
